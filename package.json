@@ -1,0 +1,11 @@
+{
+  "name": "tank",
+  "version": "1.0.0",
+  "description": "mini game of tank",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "dr_zhuim",
+  "license": "ISC"
+}
